@@ -178,8 +178,8 @@ ul.social-icons li a:hover {
 .js2 {
 	width:80%;
 	background:#ffeb3b;
-	-moz-animation:photoshop 2s ease-out;
-	-webkit-animation:photoshop 2s ease-out;
+	-moz-animation:javascript 2s ease-out;
+	-webkit-animation:javascript 2s ease-out;
 }
  @-moz-keyframes ps2 {
 0% {
