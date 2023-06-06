@@ -76,7 +76,7 @@ ul.social-icons li a:hover {
 	text-align:left;
 	padding:47px 0;
 }
-.skills .ps, .skills .sql, .skills .ai, .skills .html, .skills .css {
+.skills .ps, .skills .sql, .skills .ai, .skills .html, .skills .css, .js {
 	padding:25px;
 	width:100px;
 	height:100px;
@@ -106,6 +106,9 @@ ul.social-icons li a:hover {
 .skills .css {
 	background:#39d084;
 }
+.skills .js {
+	background:#ffeb3b;
+}
 .skills .ps:hover, .skills .sql:hover, .skills .ai:hover, .skills .html:hover, .skills .css:hover {
 	border:8px solid #fff;
 }
@@ -115,7 +118,7 @@ ul.social-icons li a:hover {
 	font-weight: normal;
 	line-height: 80px;
 }
-.skills .html h3, .skills .css h3 {
+.skills .html h3, .skills .css h3 , .skills .js h3{
 	font-size: 2.2em;
 }
 .expand-bg {
@@ -169,6 +172,12 @@ ul.social-icons li a:hover {
 .css2 {
 	width:60%;
 	background:#39d084;
+	-moz-animation:photoshop 2s ease-out;
+	-webkit-animation:photoshop 2s ease-out;
+}
+.js2 {
+	width:80%;
+	background:#ffeb3b;
 	-moz-animation:photoshop 2s ease-out;
 	-webkit-animation:photoshop 2s ease-out;
 }
